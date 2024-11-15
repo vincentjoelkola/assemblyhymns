@@ -1,6 +1,6 @@
 # assemblyhymns
 
-A new Flutter project.
+Song Book developed using 
 
 ## Getting Started
 
