@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552739225321",
+    "project_id": "assemblyhymns",
+    "storage_bucket": "assemblyhymns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552739225321:android:4b0d3c1bd118f11430fa78",
+        "android_client_info": {
+          "package_name": "com.vincentbiblesearch.assemblyhymns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552739225321-r4fmmd47hso39v8muhpvqchmq4felu9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxwgKF8Y_ARlUcp3t8JaUkxaQ1e4gntiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552739225321-r4fmmd47hso39v8muhpvqchmq4felu9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
